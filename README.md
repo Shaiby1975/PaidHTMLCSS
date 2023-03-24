@@ -1,2 +1,0 @@
-# PaidHTMLCSS
-Online paid course 
