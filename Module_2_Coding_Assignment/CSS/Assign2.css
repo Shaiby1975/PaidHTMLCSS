@@ -16,6 +16,7 @@ section {
         height: 160px;
         margin-right:auto ;
         margin-left:auto ;
+        margin-bottom: 5px;
         background-color: #999999;
         font-family: Helvetica;
         color: black;
